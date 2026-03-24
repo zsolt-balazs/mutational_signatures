@@ -1,4 +1,4 @@
-# mMutational_signatures
+# Mutational_signatures
 Lab practice on somatic mutations and mutational signatures in cancer
 
 The respository contains a Jupyter notebook that can for example be run by using Google Colab. The underlying data are found in the `data` folder.
